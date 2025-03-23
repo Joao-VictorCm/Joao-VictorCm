@@ -14,7 +14,7 @@ Atuo no desenvolvimento de APIs robustas, utilizando **NestJS, PostgreSQL, Prism
 ### 🔹 **Backend**  
 - **Node.js** | **NestJS** | Express.js  
 - **Prisma ORM** | **TypeORM**  
-- **RESTful APIs** | **GraphQL** | **Autenticação JWT**
+- **RESTful APIs** | **Autenticação JWT**
 
 ### 🎨 **Frontend**  
 - **React.js** | **EJS**  
