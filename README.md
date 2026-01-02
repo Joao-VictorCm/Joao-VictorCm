@@ -1,42 +1,57 @@
 ![](https://komarev.com/ghpvc/?username=Joao-VictorCm&color=006bed)
 
-# 👋 Olá, sou João Victor!
+# João Victor Castilhos 👋
 
-💻 **Desenvolvedor Backend | Especialista em Node.js & NestJS**  
-🚀 Apaixonado por tecnologia e desenvolvimento de aplicações escaláveis e seguras.
-
-Atuo no desenvolvimento de APIs robustas, utilizando **NestJS, PostgreSQL, Prisma ORM** e integrações com serviços em **Cloud**. Tenho experiência na construção de sistemas eficientes e performáticos, aplicando **boas práticas de arquitetura, segurança e otimização**.
+🎓 Estudante de **Java** com foco em **Programação Orientada a Objetos (POO)** e **backend**.  
+Atualmente em formação pela **DevSuperior** e cursando **Análise e Desenvolvimento de Sistemas (ADS)** pelo **SENAC**.
 
 ---
 
-## 🚀 **Tecnologias e Ferramentas**  
-
-### 🔹 **Backend**  
-- **Node.js** | **NestJS** | Express.js  
-- **Prisma ORM** | **TypeORM**  
-- **RESTful APIs** | **Autenticação JWT**
-
-### 🎨 **Frontend**  
-- **React.js** | **EJS**  
-- **HTML5, CSS3, JavaScript (ES6+)**  
-- **Styled Components | Tailwind CSS**  
-
-### 🗄 **Banco de Dados**  
-- **PostgreSQL** | **SQL** 
-- Modelagem de dados e otimização de consultas  
-
-### 🛠 **Ferramentas & Metodologias**  
-- **Git & GitHub** | **Swagger** | **Testes automatizados com Jest**  
-- **SOLID, Clean Code & Design Patterns**  
+## 🧠 Sobre mim
+- Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** pelo **SENAC**
+- Estudando Java de forma estruturada
+- Foco em entender os fundamentos antes de avançar para frameworks
+- Evoluindo passo a passo em lógica, POO e boas práticas
 
 ---
 
-<a href="https://github.com/Joao-VictorCm" title="Perfil do Joao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-VictorCm&theme=dracula&show_icons=true" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-VictorCm&layout=compact&hide_border=true&theme=dracula&show" />
-</a>
+## 🚀 Tecnologias e Conceitos em Estudo
+- Java
+- Programação Orientada a Objetos (POO)
+- Estruturas de dados básicas
+- Listas e Arrays (`List`, `ArrayList`)
+- Lógica de Programação
+- Git & GitHub
 
-## Onde me encontrar
+---
 
+## 📌 Projetos em Destaque
+
+### 🔹 Contribuintes – Cálculo de Imposto (Java)
+Desafio do módulo **Programação Moderna** da DevSuperior.
+
+**Conceitos aplicados:**
+- Programação Orientada a Objetos
+- Encapsulamento
+- Listas (`List<T>`)
+- Regras de negócio
+
+👉 Repositório:  
+https://github.com/Joao-VictorCm/contribuintes-imposto-java
+
+---
+
+## 🎯 Objetivo
+Me desenvolver como **desenvolvedor backend Java**, construindo uma base forte em:
+- Lógica de programação
+- Programação Orientada a Objetos
+- Código limpo e bem estruturado
+
+---
+
+## 📫 Contato
 [![Linkedin](https://img.shields.io/badge/-Joao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/joao-victorcm-dev)]
 [![Gmail Badge](https://img.shields.io/badge/-castilhosjoao16@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:castilhosjoao16@gmail.com)]
+
+---
+
