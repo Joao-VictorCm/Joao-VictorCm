@@ -37,7 +37,7 @@ Desafio do módulo **Programação Moderna** da DevSuperior.
 - Regras de negócio
 
 👉 Repositório:  
-[//github.com/Joao-VictorCm/contribuintes-imposto-java](https://github.com/Joao-VictorCm/Calculo_de_Imposto-_-Java-.git)
+[[//github.com/Joao-VictorCm/contribuintes-imposto-java](https://github.com/Joao-VictorCm/Calculo_de_Imposto-_-Java-.git)]
 
 ---
 
